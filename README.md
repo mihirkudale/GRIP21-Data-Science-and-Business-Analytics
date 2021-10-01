@@ -3,4 +3,4 @@ This repositry contains all the tasks solved and submitted by me while doing [Da
 
 ## Tasks
 * Beginner level Tasks
-* [Prediction using Supervised ML]()
+- [Prediction using Supervised ML]()
