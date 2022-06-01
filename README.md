@@ -13,3 +13,6 @@ This repositry contains all the tasks solved and submitted by me while doing [Da
 - Task 5- [Exploratory Data Analysis-Sports](https://github.com/mihirkudale/GRIP21-Data-Science-and-Business-Analytics/tree/main/Advanced%20Level%20Task/Exploratory%20Data%20Analysis-Sports)
 - Task 7- [Stock Market Prediction using Numerical and Textual Analysis](https://github.com/mihirkudale/GRIP21-Data-Science-and-Business-Analytics/tree/main/Advanced%20Level%20Task/Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis)
 - Task 8- [Timeline Analysis : Covid-19 Project](https://public.tableau.com/views/Covid19TimelineAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+![The Sparks Foundation Internship Completion Certificate](https://user-images.githubusercontent.com/90020715/171468458-8f12660c-69db-44f3-88a8-6810ad1222bf.png)
